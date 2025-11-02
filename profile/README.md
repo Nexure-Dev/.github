@@ -1,3 +1,5 @@
+<p align="center">Wir bieten kostenlose Scripts und Discord Bots, sowie kostenlose Programmierhilfe an.</p>
+
 <p align="center">
   <a href="https://nexure-dev.de" target="_blank">🔗 Webseite</a>
   •
